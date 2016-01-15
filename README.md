@@ -9,26 +9,42 @@ You will also want to have a variable for the initial number of bottles, as it g
 Your job is to write a command line program in Java that prints the song lyrics, nicely formatted as follows:
 
 99 bottles of beer on the wall.
+
 99 bottles of beer!
+
 Take one down.  Pass it around.
-98 bottles of beer on the wall.
 
 98 bottles of beer on the wall.
+
+
+98 bottles of beer on the wall.
+
 98 bottles of beer!
+
 Take one down.  Pass it around.
+
 97 bottles of beer on the wall.
+
 
 ...  and so on until ...
 
+
 2 bottles of beer on the wall.
+
 2 bottles of beer!
+
 Take one down.  Pass it around.
+
 1 bottle of beer on the wall.
 
 1 bottle of beer on the wall.
+
 1 bottle of beer!
+
 Take one down.  Pass it around.
+
 No more bottles of beer on the wall.
+
 
 Be very careful with the singular / plural of the word bottle(s) as it appears in the lyrics.  There are two things I am looking for in this assignment:
 
